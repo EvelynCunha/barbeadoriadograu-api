@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!--START_SECTION:header-->
 <div align="center">
   <p align="center">
@@ -99,3 +100,6 @@ Após a conclusão do curso/projeto, os estudantes estarão aptos a:
     <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
   </a>
 </p>
+=======
+# barbeadoriadograu-api
+>>>>>>> 89c6c05701d0fa08c96edacf927eca2634f0366e
